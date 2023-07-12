@@ -42,4 +42,4 @@ The folder sizes and the total size will be exported to a CSV file named `folder
 
 Note: Ensure that you have the necessary permissions and appropriate module versions to execute the script successfully.
 
-For any further assistance or inquiries, please feel free to reach out.
+For any further assistance or inquiries, please feel free to reach out at snhaider9977@gmail.com
